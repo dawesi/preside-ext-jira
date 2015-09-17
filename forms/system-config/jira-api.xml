@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form i18nBaseUri="system-config.jira-api:">
+	<tab id="default">
+		<fieldset id="default" sortorder="10">
+			<field name="base_url" control="textinput" />
+			<field name="user"     control="textinput" />
+			<field name="password" control="password" outputSavedValue="true" />
+		</fieldset>
+	</tab>
+</form>
